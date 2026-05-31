@@ -17,6 +17,8 @@ build/
 # macOS debug symbols
 *.dSYM/
 
+.clang-format
+
 # ===============================
 # macOS system files
 # ===============================
